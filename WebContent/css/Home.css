@@ -1,0 +1,19 @@
+.bEntrar {
+	width: 30%;
+	color: #88393d;
+}
+
+.grupo {
+
+	border: 1px;
+	margin-left: 40%;
+	margin-top: 1.7%;
+	border-color: black;
+
+}
+
+body {
+	background-image: url("img/fundo.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}

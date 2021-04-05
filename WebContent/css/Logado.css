@@ -1,0 +1,18 @@
+body {
+	background-image: url("img/fundo.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+.Bem-Vindo{
+	color: #88393d;
+	
+	margin-top: 350px;
+
+}
+
+a	{
+	margin-left: 95%;
+	color:white;
+}
